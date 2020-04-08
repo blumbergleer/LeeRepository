@@ -1,2 +1,0 @@
-# LeeRepository
-Created with CodeSandbox
